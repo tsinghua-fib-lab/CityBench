@@ -1,0 +1,624 @@
+,road_id,road_name
+0,200001922,Haile Selassie Roundabout
+1,200000018,Haile Selassie Avenue
+2,200001923,Haile Selassie Roundabout
+3,200001924,Haile Selassie Roundabout
+4,200001925,Haile Selassie Roundabout
+5,200000020,Uhuru Highway
+6,200000026,Kenyatta Avenue Round About
+7,200000027,Kenyatta Avenue Round About
+8,200000022,Uhuru Highway
+9,200000023,Uhuru Highway
+10,200000024,Uhuru Highway
+11,200000507,Harambee Avenue
+12,200000028,Kenyatta Avenue Round About
+13,200001999,Kenyatta Avenue Round About
+14,200002021,Kenyatta Avenue
+15,200000512,Ragati Road
+16,200000029,Ragati Road
+17,200000030,Ragati Road
+18,200000031,Haile Selassie Avenue
+19,200002019,Ngong Road
+20,200002144,Ngong Road
+21,200002075,Ngong Road
+22,200000034,
+23,200001976,Kenyatta Avenue Round About
+24,200002000,Kenyatta Avenue Round About
+25,200000052,Kenyatta Avenue
+26,200002062,University Way Round About
+27,200002063,University Way Round About
+28,200000057,Uhuru Highway
+29,200001974,Kenyatta Avenue Round About
+30,200001975,Kenyatta Avenue Round About
+31,200000058,Uhuru Highway
+32,200002146,University Way Round About
+33,200002148,University Way Round About
+34,200000059,University Way
+35,200000091,Uhuru Highway
+36,200001806,City Hall Way
+37,200000100,City Hall Way
+38,200000555,City Hall Way
+39,200000132,Limuru Road
+40,200001567,Limuru Road
+41,200001562,
+42,200001192,Murang'a Road
+43,200000133,Murang'a Road
+44,200000778,Kipande Road
+45,200000150,Dr. G.W. Griffin Road
+46,200000151,Dr. G.W. Griffin Road
+47,200001224,Quarry Road
+48,200000153,Dr. G.W. Griffin Road
+49,200000524,Dr. G.W. Griffin Road
+50,200000486,General Waruinge Street
+51,200000329,Landhies Road
+52,200000156,
+53,200000330,Landhies Road
+54,200001807,Racecourse Road
+55,200001703,Racecourse Road
+56,200000226,
+57,200000228,Murang'a Road
+58,200001557,Murang'a Road
+59,200001566,Limuru Road
+60,200000830,Ronald Ngala Street
+61,200002167,Ronald Ngala Street
+62,200000229,Ronald Ngala Street
+63,200000258,Lusaka Road
+64,200000286,Haile Selassie Avenue
+65,200001772,Haile Selassie Avenue
+66,200001220,Tom Mboya Street
+67,200000304,Uhuru Highway
+68,200001476,
+69,200000320,Parliament Road
+70,200000321,Parliament Road
+71,200001232,
+72,200000370,Kimathi Street
+73,200001229,Tubman Road
+74,200000838,Kimathi Street
+75,200000498,University Way
+76,200000499,University Way
+77,200000371,Muindi Mbingu Street
+78,200000398,Uhuru Highway
+79,200002072,Waiyaki Way
+80,200000388,
+81,200000547,Prof. Wangari Maathai Road
+82,200000396,Ngong Road
+83,200001230,
+84,200002066,University Way Round About
+85,200002147,University Way Round About
+86,200000397,Uhuru Highway
+87,200002064,University Way Round About
+88,200002065,University Way Round About
+89,200000399,University Way
+90,200000493,Prof. Wangari Maathai Road
+91,200002090,Prof. Wangari Maathai Road
+92,200000423,Prof. Wangari Maathai Road
+93,200000430,Murang'a Road
+94,200001731,Murang'a Road
+95,200001729,Ngara Road
+96,200001072,Dr. G.W. Griffin Road
+97,200000433,Racecourse Road
+98,200000485,
+99,200001712,Murang'a Road
+100,200001586,Murang'a Road
+101,200000494,Murang'a Road
+102,200000495,Slip Road
+103,200000496,Slip Road
+104,200002080,Slip Road
+105,200001725,Slip Road
+106,200000497,Moi Avenue
+107,200000225,Murang'a Road
+108,200002132,Prof. Wangari Maathai Road
+109,200000521,
+110,200002192,
+111,200001699,Dr. G.W. Griffin Road
+112,200002013,Kenyatta Avenue
+113,200002014,Kenyatta Avenue
+114,200000571,Nyerere Road
+115,200000667,River Road
+116,200001575,Muranga Road
+117,200001254,Tom Mboya Street
+118,200002166,Moi Avenue
+119,200001726,Moi Avenue
+120,200000707,
+121,200002190,Haile Selassie Avenue
+122,200000771,Haile Selassie Avenue
+123,200002187,
+124,200002182,Haile Selassie Avenue
+125,200002022,Kenyatta Avenue
+126,200001225,Ngong Road
+127,200002077,Tom Mboya Street
+128,200001571,Latema Road
+129,200001447,Nairobi Expressway
+130,200001479,Nairobi Expressway
+131,200001454,
+132,200001480,Nairobi Expressway
+133,200001456,Nairobi Expressway
+134,200001459,Museum Hill Exit A
+135,200002069,Waiyaki Way
+136,200002070,Waiyaki Way
+137,200001458,
+138,200001709,Uyoma Street
+139,200001678,Uyoma Street
+140,200001677,Ronald Ngala Street
+141,200001821,Moi Avenue
+142,200001760,Moi Avenue
+143,200002164,City Hall Way
+144,200001926,Haile Selassie Roundabout
+145,200001927,Haile Selassie Roundabout
+146,200001917,Haile Selassie Avenue
+147,200002068,Waiyaki Way
+148,200002162,
+149,200002131,Prof. Wangari Maathai Road
+150,200002183,Prof. Wangari Maathai Road
+151,200002195,Haile Selassie Exit
+152,200002197,Haile Selassie Exit
+153,200002961,Haile Selassie Exit
+154,200002196,Haile Selassie Exit
+155,200002198,Haile Selassie Exit
+156,200002582,
+157,200001208,
+158,200002583,
+159,200001209,
+160,200002586,Kamukunji Road
+161,200001071,Chai Road
+162,200002535,Chai Road
+163,200002293,Kipande Athumani Street
+164,200002573,Muratina Street
+165,200001167,Muratina Street
+166,200002958,Valley Road
+167,200000970,Argwings Kodhek Road
+168,200001113,Argwings Kodhek Road
+169,200002181,Valley Road
+170,200000971,Argwings Kodhek Road
+171,200001112,Argwings Kodhek Road
+172,200000297,Valley Road
+173,200000381,Lamu Road
+174,200000382,Lamu Road
+175,200000825,Digo Road
+176,200002368,Lamu Road
+177,200002463,Digo Road
+178,200002768,Digo Road
+179,200002369,Lamu Road
+180,200002001,Kenyatta Avenue
+181,200000053,Kenyatta Avenue
+182,200001972,Kimathi Street
+183,200001973,Kenyatta Avenue
+184,200002002,Kimathi Street
+185,200000575,Kenyatta Avenue
+186,200000777,Riverside Drive
+187,200001153,Riverside Drive
+188,200001154,Ring Road Kileleshwa
+189,200001231,Ring Rd. Westlands
+190,200000077,
+191,200002568,Riverside Drive
+192,200001151,Ring Rd. Westlands
+193,200000791,Prof. Wangari Maathai Road
+194,200002130,Kipande Road
+195,200000837,Kipande Road
+196,200000836,Kipande Road
+197,200002218,Processional Way
+198,200002358,Processional Way
+199,200002327,Nyerere Road
+200,200000002,Processional Way
+201,200000364,Processional Way
+202,200000296,Nyerere Road
+203,200002091,Prof. Wangari Maathai Road
+204,200001570,Limuru Road
+205,200001563,Tom Mboya Street
+206,200000099,Tom Mboya Street
+207,200001210,Ronald Ngala Street
+208,200000207,Ronald Ngala Street
+209,200001761,Tom Mboya Street
+210,200001982,Tom Mboya Street
+211,200000317,Mondlane Street
+212,200001727,Moi Avenue
+213,200002165,Moi Avenue
+214,200000505,Moi Avenue
+215,200000000,State House Avenue
+216,200000001,State House Avenue
+217,200000418,State House Road
+218,200002216,State House Avenue
+219,200002217,State House Avenue
+220,200002380,State House Road
+221,200000952,Hospital Road
+222,200002056,Ngong Road
+223,200000951,Hospital Road
+224,200000035,Woodlands Road
+225,200000733,Woodlands Road
+226,200002220,Woodlands Road
+227,200002434,Woodlands Road
+228,200000590,Lenana Road
+229,200002226,City Hall Way
+230,200002232,City Hall Way
+231,200002233,City Hall Way
+232,200000042,City Hall Way
+233,200000048,City Hall Way
+234,200000051,City Hall Way
+235,200000054,Kenyatta Avenue
+236,200000055,Kenyatta Avenue
+237,200000298,Muindi Mbingu Street
+238,200000574,Kenyatta Avenue
+239,200000573,Kenyatta Avenue
+240,200000056,Kenyatta Avenue
+241,200002406,Koinage Street
+242,200000577,Koinage Street
+243,200002724,Chiromo Lane
+244,200000076,Ojijo Road
+245,200002507,
+246,200000078,Milimani Road
+247,200002509,
+248,200000978,
+249,200002241,Milimani Road
+250,200000980,
+251,200000211,Quarry Road
+252,200002246,Pumwani Road
+253,200002298,Quarry Road
+254,200000085,Pumwani Road
+255,200000096,Harambee Avenue
+256,200002224,
+257,200000040,
+258,200002252,Harambee Avenue
+259,200000039,
+260,200002225,
+261,200001701,Kariakor Roundabout
+262,200000340,Ring Road Ngara
+263,200001669,Kariakor Roundabout
+264,200002763,Kariakor Roundabout
+265,200002344,Ring Road Ngara
+266,200002748,Kariakor Roundabout
+267,200000161,Butecho
+268,200002274,Butecho
+269,200000162,Butecho
+270,200000164,Sakwero Road
+271,200002273,Butecho
+272,200002275,Sakwero Road
+273,200000148,Landhies Road
+274,200000149,Landhies Road
+275,200000275,Ladhies Road-
+276,200000274,Ladhies Road-
+277,200001633,
+278,200002287,
+279,200002736,
+280,200000195,
+281,200001587,
+282,200001634,
+283,200002288,Desai Road
+284,200002713,
+285,200002737,
+286,200000196,Desai Road
+287,200002617,Juja Road
+288,200001529,Globe Roundabout
+289,200002100,Globe Roundabout
+290,200000341,Kirinyaga Road
+291,200002690,Globe Roundabout
+292,200002920,Globe Roundabout
+293,200002345,Kirinyaga Road
+294,200000237,State House Road
+295,200002313,State House Road
+296,200002043,
+297,200002900,
+298,200002901,
+299,200002042,
+300,200001247,Wabera Street
+301,200001246,
+302,200001732,Dr. G.W. Griffin Road
+303,200000578,Dr. G.W. Griffin Road
+304,200000613,Juja Road
+305,200000616,Juja Road
+306,200000615,Juja Road
+307,200000032,Haile Selassie Avenue
+308,200002186,Haile Selassie Avenue
+309,200002185,Haile Selassie Avenue
+310,200002016,
+311,200000730,State House Road
+312,200000731,State House Road
+313,200002431,State House Road
+314,200002432,State House Road
+315,200000732,State House Road
+316,200002433,State House Road
+317,200000979,
+318,200000793,State House Road
+319,200002508,
+320,200002455,State House Road
+321,200000822,Taarifa Road
+322,200002461,Taarifa Road
+323,200000038,
+324,200000049,Parliament Road
+325,200002223,
+326,200000843,Parliament Road
+327,200000977,
+328,200000975,
+329,200002506,
+330,200002504,
+331,200002505,
+332,200000976,
+333,200002314,Dennis Pritt Road
+334,200002616,Juja Road
+335,200001294,Juja Road
+336,200001758,City Stadium Roundabout
+337,200001757,City Stadium Roundabout
+338,200002795,City Stadium Roundabout
+339,200002794,City Stadium Roundabout
+340,200002877,D.O.D Roundabout
+341,200002876,D.O.D Roundabout
+342,200001978,D.O.D Roundabout
+343,200001977,D.O.D Roundabout
+344,200001530,Globe Roundabout
+345,200002060,Globe Roundabout
+346,200002097,Murang'a Road
+347,200002691,Globe Roundabout
+348,200002911,Globe Roundabout
+349,200001564,
+350,200000084,River Road
+351,200001707,River Road
+352,200001742,Latema Road
+353,200002245,River Road
+354,200002765,River Road
+355,200001830,
+356,200002155,
+357,200002815,
+358,200002944,
+359,200000144,Ring Road
+360,200000003,Kenyatta Avenue
+361,200000328,
+362,200002339,
+363,200000081,Haile Selassie Avenue
+364,200001832,Haile Selassie Avenue
+365,200000019,Haile Selassie Avenue
+366,200002244,Haile Selassie Avenue
+367,200002817,Haile Selassie Avenue
+368,200000036,D.O.D Roundabout
+369,200002221,D.O.D Roundabout
+370,200002222,
+371,200000041,Harambee Avenue
+372,200000037,
+373,200000043,City Hall Way
+374,200002227,City Hall Way
+375,200000044,City Hall Way
+376,200000045,City Hall Way
+377,200000841,City Hall Way
+378,200002228,City Hall Way
+379,200002229,City Hall Way
+380,200000046,City Hall Way
+381,200000047,City Hall Way
+382,200000842,Parliament Road
+383,200002230,City Hall Way
+384,200002231,City Hall Way
+385,200002816,Haile Selassie Avenue
+386,200002764,Haile Selassie Avenue
+387,200000082,Haile Selassie Avenue
+388,200001831,Haile Selassie Avenue
+389,200001702,Haile Selassie Avenue
+390,200001671,Haile Selassie Avenue
+391,200000083,
+392,200001936,Haile Selassie Avenue
+393,200002750,Haile Selassie Avenue
+394,200002862,Haile Selassie Avenue
+395,200001916,Haile Selassie Avenue
+396,200001803,Haile Selassie Avenue
+397,200000097,Haile Selassie Avenue
+398,200002859,Haile Selassie Avenue
+399,200002803,Haile Selassie Avenue
+400,200001809,City Stadium Roundabout
+401,200000105,City Stadium Roundabout
+402,200002805,City Stadium Roundabout
+403,200002255,City Stadium Roundabout
+404,200000114,
+405,200001968,
+406,200000115,Ring Road Kileleshwa
+407,200002262,
+408,200002874,
+409,200001728,
+410,200000135,Ngara Road
+411,200002778,
+412,200002269,Kariakor Roundabout
+413,200002851,Kariakor Roundabout
+414,200000155,Kariakor Roundabout
+415,200001892,Kariakor Roundabout
+416,200001679,Kariakor Roundabout
+417,200002753,Kariakor Roundabout
+418,200002009,
+419,200002010,
+420,200000154,Haile Selassie Avenue
+421,200002894,
+422,200002895,
+423,200001700,
+424,200000172,
+425,200002762,
+426,200002286,
+427,200002285,
+428,200000197,Quarry Road
+429,200000194,
+430,200000193,
+431,200002156,
+432,200001828,
+433,200000227,Ladhies Road
+434,200002945,
+435,200002813,
+436,200001998,D.O.D Roundabout
+437,200000231,
+438,200001997,D.O.D Roundabout
+439,200002888,D.O.D Roundabout
+440,200002887,D.O.D Roundabout
+441,200001820,City Stadium Roundabout
+442,200001808,City Stadium Roundabout
+443,200002808,City Stadium Roundabout
+444,200002804,City Stadium Roundabout
+445,200001759,Haile Selassie Avenue
+446,200001833,Haile Selassie Avenue
+447,200002796,Haile Selassie Avenue
+448,200002818,Haile Selassie Avenue
+449,200000294,State House Road
+450,200000292,University Way
+451,200000380,Lower Hill Road
+452,200002915,Globe Roundabout
+453,200002912,Globe Roundabout
+454,200002081,Globe Roundabout
+455,200002061,Globe Roundabout
+456,200001773,Haile Selassie Avenue
+457,200001774,Haile Selassie Avenue
+458,200000502,Moi Avenue
+459,200002798,Haile Selassie Avenue
+460,200002799,Haile Selassie Avenue
+461,200002416,Globe Roundabout
+462,200002916,Globe Roundabout
+463,200000626,Globe Roundabout
+464,200002082,Globe Roundabout
+465,200001966,
+466,200000724,
+467,200001969,
+468,200002873,
+469,200002875,
+470,200001680,General Waruinge Street
+471,200001681,General Waruinge Street
+472,200002754,General Waruinge Street
+473,200002755,General Waruinge Street
+474,200000831,Ronald Ngala Street
+475,200001212,River Road
+476,200001714,General Waruingi Street
+477,200001057,Tom Mboya Street
+478,200001682,General Waruinge Street
+479,200000086,General Waruinge Street
+480,200002756,General Waruinge Street
+481,200002247,General Waruinge Street
+482,200001670,Kariakor Roundabout
+483,200001688,Kariakor Roundabout
+484,200001632,Racecourse Road
+485,200002749,Kariakor Roundabout
+486,200002759,Kariakor Roundabout
+487,200002806,City Stadium Roundabout
+488,200001845,Jogoo Road
+489,200001810,City Stadium Roundabout
+490,200001829,
+491,200001881,Ring Road
+492,200002814,
+493,200002048,
+494,200002047,
+495,200002180,Valley Road
+496,200002906,
+497,200002905,
+498,200002959,
+499,200000005,Kenyatta Avenue
+500,200002188,
+501,200002189,Ngong Road
+502,200000006,Kenyatta Avenue
+503,200002253,Haile Selassie Avenue
+504,200000098,Haile Selassie Avenue
+505,200000840,Parliament Road
+506,200000095,City Hall Way
+507,200000050,Parliament Road
+508,200000488,General Waruinge Street
+509,200000721,Oloitokitok Road
+510,200000137,Ngara Road
+511,200000331,Park Road
+512,200002346,Kirinyaga Road
+513,200000342,Kirinyaga Road
+514,200000208,Kumasi Road
+515,200000249,Argwings Kodhek Road
+516,200000253,Jogoo Road
+517,200000284,
+518,200000434,Racecourse Road
+519,200000570,Valley Road
+520,200000572,Moi Avenue
+521,200002405,Koinage Street
+522,200000576,Koinage Street
+523,200001513,
+524,200001711,Kipande Road
+525,200000716,Ring Road Kileleshwa
+526,200000785,Murang'a Road
+527,200002413,Juja Road
+528,200000617,Juja Road
+529,200000828,Racecourse Road
+530,200000829,Ladhies Road
+531,200001043,General Waruingi Street
+532,200001766,Haile Selassie Avenue
+533,200000557,State House Road
+534,200000238,State House Road
+535,200002012,Kenyatta Avenue
+536,200002015,Kenyatta Avenue
+537,200002540,
+538,200000004,Kenyatta Avenue
+539,200001080,
+540,200001223,
+541,200000511,Ngong Road
+542,200002011,Ngong Road
+543,200000650,Haile Selassie Avenue
+544,200000017,Haile Selassie Avenue
+545,200002417,Haile Selassie Avenue
+546,200000033,Haile Selassie Avenue
+547,200002595,
+548,200001240,
+549,200000719,Ring Road Kileleshwa
+550,200002427,Ring Road Kileleshwa
+551,200001928,Haile Selassie Avenue
+552,200002860,Haile Selassie Avenue
+553,200001558,Murang'a Road
+554,200000157,
+555,200000503,Moi Avenue
+556,200000554,City Hall Way
+557,200000134,Murang'a Road
+558,200000119,Kipande Road
+559,200001565,Kipande Road
+560,200000553,
+561,200000136,Ngara Road
+562,200002402,
+563,200000285,Landhies Road
+564,200000145,Landhies Road
+565,200000277,Ladhies Road-
+566,200001723,Ladhies Road
+567,200000146,Landhies Road
+568,200001227,
+569,200000147,Landhies Road
+570,200002591,
+571,200001226,
+572,200002590,
+573,200002169,Desai Road
+574,200002168,Desai Road
+575,200001299,Argwings Kodhek Road
+576,200000295,State House Road
+577,200000276,Ladhies Road-
+578,200000318,Mama Ngina Street
+579,200000319,Mama Ngina Street
+580,200000504,Moi Avenue
+581,200000332,Desai Road
+582,200002340,Desai Road
+583,200002567,Ring Rd. Westlands
+584,200002893,Ngong Road
+585,200002008,Ngong Road
+586,200000501,University Way
+587,200000500,University Way
+588,200000614,Juja Road
+589,200002429,
+590,200000792,Prof. Wangari Maathai Road
+591,200000827,Racecourse Road
+592,200001705,Racecourse Road
+593,200001241,
+594,200002596,
+595,200001111,Argwings Kodhek Road
+596,200001114,Argwings Kodhek Road
+597,200001981,Tom Mboya Street
+598,200002088,Waiyaki Way
+599,200001455,Nairobi Expressway
+600,200002078,Latema Road
+601,200002067,Waiyaki Way
+602,200001921,Haile Selassie Roundabout
+603,200000021,Uhuru Highway
+604,200000025,Uhuru Highway
+605,200002020,Ngong Road
+606,200000060,Uhuru Highway
+607,200000152,Dr. G.W. Griffin Road
+608,200000293,University Way
+609,200001221,Tom Mboya Street
+610,200002084,Tom Mboya Street
+611,200001971,Mama Ngina Street
+612,200000387,Ngara Road
+613,200000424,Prof. Wangari Maathai Road
+614,200000391,Murang'a Road
+615,200000786,
+616,200000432,Dr. G.W. Griffin Road
+617,200002089,Prof. Wangari Maathai Road
+618,200000711,Prof. Wangari Maathai Road
+619,200002087,Waiyaki Way
+620,200001233,
+621,200000839,Parliament Road
+622,200001484,Nairobi Expressway

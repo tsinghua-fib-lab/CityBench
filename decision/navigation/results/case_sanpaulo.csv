@@ -1,0 +1,51 @@
+start_id,start_name,des_id,des_name,success_time,average_step,completion
+500044371,Avenida Brigadeiro Luís Antônio nearby,500057906,Rua Líbero Badaró nearby,4,3.8,1.0
+500094858,Rua Mendes Caldeira nearby,500094812,Rua Santa Rosa nearby,5,1.0,1.0
+500093347,Rua da Figueira nearby,500093210,Rua Carneiro Leão nearby,5,1.0,1.0
+500094673,Viaduto Gasômetro nearby,500093228,Rua Visconde de Parnaíba nearby,5,2.0,1.0
+500055062,Rua Manoel Dutra nearby,500054333,Rua Santo Antônio nearby,5,1.0,1.0
+500042391,Rua da Consolação nearby,500057135,Rua Tabatinguera nearby,5,9.8,1.0
+500093555,Rua Carneiro Leão nearby,500101675,Rua da Mooca nearby,4,8.6,1.0
+500057327,Rua Tabatinguera nearby,500057246,Rua Tabatinguera nearby,5,1.0,1.0
+500093018,Rua Piratininga nearby,500057140,Rua Tabatinguera nearby,2,11.4,1.0
+500044679,Viaduto Júlio de Mesquita Filho nearby,500086260,Rua da Glória nearby,5,5.8,1.0
+500053100,Avenida Brigadeiro Luís Antônio nearby,500044133,Rua Maria Paula nearby,5,1.4,1.0
+500044711,Viaduto Júlio de Mesquita Filho nearby,500044343,Viaduto Júlio de Mesquita Filho nearby,5,1.0,1.0
+500093604,Rua Carneiro Leão nearby,500094879,Rua do Gasômetro nearby,5,1.0,1.0
+500044174,Rua Maria Paula nearby,500053581,Rua Condessa de São Joaquim nearby,2,13.4,0.8
+500057522,Rua da Glória nearby,500056609,Rua Glicério nearby,5,1.0,1.0
+500044784,Rua Maria Paula nearby,500053706,Viaduto Júlio de Mesquita Filho nearby,4,10.2,1.0
+500042030,Rua Rego Freitas nearby,501668058,Rua da Glória nearby,2,15.0,0.8411528075159578
+500053610,Rua Rui Barbosa nearby,500055259,Rua Manoel Dutra nearby,5,1.0,1.0
+500092528,Avenida Rangel Pestana nearby,500058396,Parque Dom Pedro II nearby,5,4.0,1.0
+500093561,Rua Piratininga nearby,500101610,Rua da Mooca nearby,2,13.8,1.0
+500093303,Avenida Rangel Pestana nearby,500092638,Rua Piratininga nearby,5,1.0,1.0
+500043573,Largo do Paissandú nearby,500043715,Avenida Prestes Maia nearby,5,1.0,1.0
+500042311,Rua Rego Freitas nearby,500043720,Avenida São João nearby,2,11.0,0.8169474665916384
+500092691,Rua Caetano Pinto nearby,500095518,Rua Mendes Caldeira nearby,5,2.4,1.0
+500094733,Rua Mendes Caldeira nearby,500101012,Rua da Mooca nearby,1,14.2,0.8130079732732842
+500093191,Rua da Figueira nearby,500057550,Rua Tabatinguera nearby,2,11.4,1.0
+500052504,Rua Maestro Cardim nearby,500044611,Rua Santo Amaro nearby,5,3.0,1.0
+500042289,Rua Major Sertório nearby,500042115,Avenida Ipiranga nearby,5,1.0,1.0
+500042268,Avenida Ipiranga nearby,500053063,Viaduto Júlio de Mesquita Filho nearby,3,13.6,1.0
+500092818,Rua Caetano Pinto nearby,500005945,Parque Dom Pedro II nearby,1,13.2,1.0
+500057212,Rua da Glória nearby,500058407,Rua Venceslau Brás nearby,5,1.0,1.0
+500051632,Avenida Nove de Julho nearby,500057126,Rua Conselheiro Furtado nearby,1,14.8,0.8735916075618805
+500092816,Rua Visconde de Parnaíba nearby,500093656,Rua Piratininga nearby,5,2.0,1.0
+500086018,Rua Glicério nearby,500085634,Rua Conselheiro Furtado nearby,5,1.0,1.0
+500098061,Avenida Rangel Pestana nearby,500101151,Rua da Mooca nearby,1,12.6,1.0
+500003339,Subestação Pedro II,500086271,Rua Conselheiro Furtado nearby,2,12.2,1.0
+500092456,Rua da Mooca nearby,501666456,Avenida Alcântara Machado nearby,5,2.0,1.0
+500058124,Largo Pátio do Colégio nearby,500094108,Avenida Rangel Pestana nearby,1,13.0,0.8458534171441247
+500093746,Rua Domingos Paiva nearby,500092378,Rua Piratininga nearby,5,2.0,1.0
+500094326,Rua do Gasômetro nearby,500057706,Edifício Governador Claudio Lembo,1,13.2,0.8776948498952662
+500042522,Avenida São Luís nearby,500042359,Rua Amaral Gurgel nearby,5,1.0,1.0
+500044752,Rua Santo Amaro nearby,500056695,Avenida da Liberdade nearby,1,14.8,0.8132414033183079
+500054159,Avenida Nove de Julho nearby,500044486,Viaduto Júlio de Mesquita Filho nearby,5,1.0,1.0
+500057672,Rua Líbero Badaró nearby,500042534,Avenida São Luís nearby,3,6.6,1.0
+500052541,Rua Abolição nearby,500053036,Rua Abolição nearby,1,13.0,1.0
+500094244,Rua da Figueira nearby,500100410,Rua Conselheiro João Alfredo nearby,2,13.0,1.0
+500092971,Rua Piratininga nearby,500101921,Avenida do Estado nearby,2,13.8,0.882723860917985
+500100739,Avenida do Estado nearby,500101053,Rua da Mooca nearby,3,9.6,0.8
+500052969,Rua Professor Laerte Ramos de Carvalho nearby,500044786,Viaduto Júlio de Mesquita Filho nearby,5,1.0,1.0
+500096342,Avenida Rangel Pestana nearby,500093255,Rua Caetano Pinto nearby,5,3.0,1.0
