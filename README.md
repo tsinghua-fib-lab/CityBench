@@ -210,13 +210,14 @@ python -m evalaute --model_name=GPT4o,MiniCPM-Llama3-V-2_5 --task_name=geoqa,mob
 If you find this work helpful, please cite our paper.
 
 ```latex
-@article{Feng2024CityBenchET,
-  title={CityBench: Evaluating the Capabilities of Large Language Model as World Model},
+@article{Feng2024CityBench,
+  title={CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks},
   author={Jie Feng, Jun Zhang, Tianhui Liu, Xin Zhang, Tianjian Ouyang, Junbo Yan, Yuwei Du, Siqi Guo, Yong Li},
   journal={ArXiv},
   year={2024},
+  primaryClass={cs.AI},
   volume={abs/2406.13945},
-  url={https://api.semanticscholar.org/CorpusID:270620697}
+  url={https://arxiv.org/abs/2406.13945}
 }
 ```
 
