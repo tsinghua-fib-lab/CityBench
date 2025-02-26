@@ -197,14 +197,6 @@ Evaluate multiple models, tasks, and cities, and output the statistical results.
 python -m evalaute --model_name=GPT4o,MiniCPM-Llama3-V-2_5 --task_name=geoqa,mobility --city_name=NewYork,Paris,Beijing --data_name=mini
 ```
 
-## 📋 Development Roadmap
-
-* [ ]  CityData for `Outdoor Navigation` and `Traffic Signal` tasks in some missing cities
-* [ ]  Model refusal analysis
-* [ ]  Automated quality control process improvement (LLM-as-judge)
-* [ ]  CityBench-Hard subset with human annotation
-* [ ]  Improvement of `Mobility Prediction` task. More information can be found at [AgentMove](https://github.com/tsinghua-fib-lab/AgentMove).
-
 ## 🌟 Citation
 
 If you find this work helpful, please cite our paper.
