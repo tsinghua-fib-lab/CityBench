@@ -2,6 +2,10 @@
 
 This repo is for CityBench: Evaluating the Capabilities of Large Language Model for Urban Tasks
 
+## 📢 News
+
+🎉: (2025.05) CityBench has been accepted to **KDD 2025 D&B Track**.
+
 ## Introduction
 
 TL;DR: We propose a simulator based global scale benchmark to evaluate the performance of large language models on various urban tasks.
@@ -96,7 +100,7 @@ python -m citysim.build_map --city_name=Paris --min_lon=2.249 --max_lon=2.4239 -
 
 There are some parameters that need to be explained:
 
-* `min_lon`, `max_lon`, `min_lat`, and `max_lat` refer to the latitude and longitude range of a specific city area you have defined. Additionally, the latitude and longitude ranges for the 13 existing cities can be found in `config.py`.s
+* `min_lon`, `max_lon`, `min_lat`, and `max_lat` refer to the latitude and longitude range of a specific city area you have defined. Additionally, the latitude and longitude ranges for the 13 existing cities can be found in `config.py`.
 * `workers` refers to the number of workers for multiprocessing.
 
 When the corresponding map for a new city has been generated, please update the relevant parameter settings in `config.py`.
@@ -202,14 +206,11 @@ python -m evalaute --model_name=GPT4o,MiniCPM-Llama3-V-2_5 --task_name=geoqa,mob
 If you find this work helpful, please cite our paper.
 
 ```latex
-@article{Feng2024CityBench,
+@article{Feng2025CityBench,
   title={CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks},
   author={Jie Feng, Jun Zhang, Tianhui Liu, Xin Zhang, Tianjian Ouyang, Junbo Yan, Yuwei Du, Siqi Guo, Yong Li},
-  journal={ArXiv},
-  year={2024},
-  primaryClass={cs.AI},
-  volume={abs/2406.13945},
-  url={https://arxiv.org/abs/2406.13945}
+  booktitle = {Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  year = {2025}
 }
 ```
 
