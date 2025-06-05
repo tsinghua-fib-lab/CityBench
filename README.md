@@ -15,7 +15,7 @@ In this paper, we design ***CityBench***, an interactive simulator based evaluat
 ## 🌍 Framework
 
 The framework of global evaluation benchmark CityBench, which consists of a simulator CitySimu and 8 representative urban tasks. We can select any city around the world to automatically build new benchmark for it.
-![citybench](./assets/CityBench-Framework.png)
+![citybench](./assets/CityBench-Framework.jpg)
 
 ### 🌆 Supported Cities
 
