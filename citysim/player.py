@@ -464,3 +464,65 @@ class Player:
         position.xy_position.y = y
         position.longlat_position.longitude = lng
         position.longlat_position.latitude = lat
+
+
+    def road_info_collect(self, road_info, lane_info, road_list):
+        road_length = lane_info["length"]
+        lane_id = lane_info["id"]
+        road_id = road_info["id"]
+        startpoint_xy = lane_info["shapely_xy"].coords[0]
+        endpoint_xy = lane_info["shapely_xy"].coords[-1]
+        angle = (round(90 - math.degrees(math.atan2(Point(endpoint_xy).y - Point(startpoint_xy).y, Point(endpoint_xy).x - Point(startpoint_xy).x)), 2)) % 360
+        Direction = ['north', 'northeast', 'east', 'southeast', 'south', 'southwest', 'west', 'northwest']
+        s = 22.5
+        direction = "north"
+        for i in range(8):
+            if angle < s + 45 * i:
+                direction = Direction[i]
+                break
+        
+        if road_id >=300000000:
+            road_name =  "Junction"
+        else:
+            try:
+                road_name = self._city_map.roads[road_id]
+                if not road_name: 
+                    road_name = "unknown road"
+            except IndexError as e:
+                print(e)
+                road_name = "unknown road"
+        
+        if road_list != []:
+            last_road = road_list[-1]
+            if last_road[0] == road_name and last_road[3] == direction:
+                if last_road[1] < 100 or road_length < 100:
+                    last_road[1] += road_length  
+                    last_road[2] = lane_id  
+                else:
+                    road_list.append([road_name, road_length, lane_id, direction, "lane"])
+            else:
+                if road_list[-1][1] < 100:
+                    road_list.pop()
+                road_list.append([road_name, road_length, lane_id, direction, "lane"])
+        else:
+            road_list.append([road_name, road_length, lane_id, direction, "lane"])
+        if road_list and road_list[-1][1] < 100:
+            road_list.pop()
+        return road_list
+
+    def get_nearby_interests(self):
+        """返回所在位置100m范围内的所有POI/AOI"""
+        
+        pos = self.get_position()
+        center = (pos["xy_position"]["x"], pos["xy_position"]["y"])
+        radius = 100
+        limit = 10
+        # 定义优先关注的POI类别
+        category_supported = {"leisure":"leisure", "amenity":"amenity", "building":"building"}
+        interest_list = []
+        for category_prefix in category_supported.keys():
+            interest_all = self._city_map.query_pois(center, radius, category_prefix, limit)
+            for p in interest_all:
+                if p[0]['name']:
+                    interest_list.append(p[0]['name'])
+        return interest_list
