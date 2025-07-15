@@ -4,7 +4,8 @@ This repo is for CityBench: Evaluating the Capabilities of Large Language Model 
 
 ## 📢 News
 
-🎉: (2025.05) CityBench has been accepted to **KDD 2025 D&B Track**.
+- 🎉: (2025.05) CityBench has been accepted to **KDD 2025 D&B Track**.
+- 🎉: (2025.06) [UrbanLLaVA](https://github.com/tsinghua-fib-lab/UrbanLLaVA) (accepted to ICCV 2025) has demonstrated superior performance, achieving state-of-the-art results on the majority of tasks in the CityBench benchmark.
 
 ## Introduction
 
